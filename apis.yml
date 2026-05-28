@@ -1,0 +1,32 @@
+aid: open-government-new-zealand
+name: Open Government, New Zealand
+description: "New Zealand Government Open Data"
+url: https://www.data.govt.nz/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Government"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Government
+  - Public APIs
+apis:
+  - name: Open Government, New Zealand
+    description: "New Zealand Government Open Data"
+    humanURL: https://www.data.govt.nz/
+    baseURL: https://www.data.govt.nz/
+    tags:
+      - Government
+    properties:
+      - type: Documentation
+        url: https://www.data.govt.nz/
+common:
+  - type: Website
+    url: https://www.data.govt.nz/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
