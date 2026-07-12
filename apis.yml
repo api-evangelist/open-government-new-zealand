@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.data.govt.nz/
 common:
+  - type: DomainSecurity
+    url: security/open-government-new-zealand-domain-security.yml
   - type: Website
     url: https://www.data.govt.nz/
   - type: PublicAPIsListing
