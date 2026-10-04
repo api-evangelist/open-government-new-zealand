@@ -39,7 +39,6 @@ apis:
   - name: Open Government, New Zealand
     description: "New Zealand Government Open Data"
     humanURL: https://www.data.govt.nz/
-    baseURL: https://www.data.govt.nz/
     tags:
       - Government
     properties:
